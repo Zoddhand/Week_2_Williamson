@@ -328,6 +328,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21c4eb081b2175c43b03443437735dae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  task1: 1
+  task2: 0
+  task3: 0
+  input: Test
 --- !u!4 &2048844331
 Transform:
   m_ObjectHideFlags: 0
